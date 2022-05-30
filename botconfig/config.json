@@ -1,0 +1,8 @@
+"env": {
+    "TOKEN": "",
+    "PREFIX": ""
+    "MongoDB_TOKEN": "mongodb+srv://<username>:<password>@cluster0.6dc04.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "youtubeCookie": "",
+    "spotify_clientID": "3c6c7f972f634fb9b3b447197eff4c68",
+    "spotify_clientSecret": "8eb999c96f0f4d9fb644fbb2f7040703"
+  }
